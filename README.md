@@ -5,7 +5,9 @@ This project presents an interactive data analysis dashboard built using Excel, 
 
 The goal of this project is to analyze sales performance, identify key trends, and evaluate the impact of external factors such as temperature, fuel prices, and holidays on weekly sales.
 
----
+
+![image alt](https://github.com/hassandata3/Walmart-Sales-Analysis-Excel-/blob/main/dashboards-walmart.png?raw=true)
+
 
 ## 🎯 Objectives
 - Analyze overall sales performance and trends
