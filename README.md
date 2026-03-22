@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project presents an interactive data analysis dashboard built using Excel, based on historical sales data from **Walmart** over a period of three years (2010–2012).
 
-The goal of this project is to analyze sales performance, identify key trends, and evaluate the impact of external factors such as temperature, fuel prices, and holidays on weekly sales.
+The goal of this project is to analyze sales performance, identify key trends, and evaluate the impact of external factors such as temperature, fuel prices, CPI , and holidays on weekly sales.
 
 
 ![image alt](https://github.com/hassandata3/Walmart-Sales-Analysis-Excel-/blob/main/dashboards-walmart.png?raw=true)
@@ -16,7 +16,7 @@ The goal of this project is to analyze sales performance, identify key trends, a
 - Study the effect of external factors:
   - Temperature 🌡️
   - Fuel Prices ⛽
-  - CPI (Inflation) 📊
+  - CPI 📊
 - Build an interactive dashboard for better decision-making
 
 ---
@@ -68,7 +68,7 @@ The goal of this project is to analyze sales performance, identify key trends, a
   Moderate temperatures are associated with higher sales, while extreme conditions reduce activity.
 
 - ⛽ **Limited Impact of Fuel Prices**  
-  Fuel price fluctuations show only a minor effect on sales.
+  Fuel price fluctuations show only a slight effect on sales.
 
 - 📊 **Weak Correlation with CPI**  
   Inflation does not significantly impact sales, likely due to Walmart’s pricing strategy and essential product mix.
@@ -83,21 +83,23 @@ The goal of this project is to analyze sales performance, identify key trends, a
 
 ## 🛠️ Tools & Techniques
 - Microsoft Excel
+  - Power Query
   - Pivot Tables
   - Pivot Charts
   - Slicers (Filters)
-  - Data Cleaning & Transformation
-- Data Visualization Best Practices
+  - Data Cleaning
+- Data Visualization 
 - Exploratory Data Analysis (EDA)
 
 ---
 
 ## 📁 Dataset
 The dataset includes:
-- Weekly sales data
-- Store information
-- Temperature
-- Fuel price
+- Stores
+- Weekly sales
+- Date
+- Temperatures
+- Fuel prices
 - CPI
 - Holiday flags
 
@@ -113,18 +115,5 @@ The dataset includes:
 
 ---
 
-## 📌 Future Improvements
-- Add correlation and regression analysis
-- Build the dashboard using Power BI or Tableau
-- Enhance storytelling with automated insights
-- Include forecasting models
-
----
-
-## 🤝 Let's Connect
-If you have feedback or suggestions, feel free to reach out or connect with me on LinkedIn!
-
----
-
 ## ⭐ If you found this project useful
-Consider giving it a star ⭐ on GitHub!
+
