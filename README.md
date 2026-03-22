@@ -93,27 +93,11 @@ The goal of this project is to analyze sales performance, identify key trends, a
 
 ---
 
-## 📁 Dataset
-The dataset includes:
-- Stores
-- Weekly sales
-- Date
-- Temperatures
-- Fuel prices
-- CPI
-- Holiday flags
-
----
-
-## 🚀 How to Use
-1. Download the Excel file from this repository
-2. Open using Microsoft Excel
-3. Use slicers to filter:
-   - Year
-   - Season
-4. Explore insights interactively
-
----
-
 ## ⭐ If you found this project useful
+
+---
+
+## Contact
+Email: hassan.munqith3@gmail.com
+LinkedIn: https://www.linkedin.com/in/hassan-m-ahmed-5003b426a/
 
